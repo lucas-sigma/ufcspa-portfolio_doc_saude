@@ -1,0 +1,66 @@
+/*@import url('https://fonts.googleapis.com/css?family=Cormorant+Garamond:300|Poiret+One');*/
+
+/*input{
+    font-family: 'Poiret One', cursive;
+    font-family: 'Cormorant Garamond', serif;
+    background-color: black;
+    border-radius: 15%;
+    color: white;
+    font-size: 3em;
+    margin-bottom: 15px;
+}
+
+body.texto {
+    padding-left: 10px;
+    font-family: 'Poiret One', cursive;
+    /*font-family: 'Cormorant Garamond', serif;
+    color: black;
+    font-size: 1.5em;
+    width: 98.5%;
+    border-right: 1px dashed black;
+    border-left: 1px dashed black;
+}*/
+
+.jumbo {
+	background-color: green;
+}
+
+body {
+	/*background-color: #69c4ce;*/
+}
+
+.well {
+	padding-bottom: 10%;
+}
+
+.Principal {
+	margin-top: 5%;
+}
+/*
+#pbtn {
+	color: #8fd5b2;
+}
+
+#sbtn {
+	color: #0275d8;
+}
+
+#tbtn {
+	color: #c05761;
+}
+
+#qbtn {
+	color: #776184;
+}
+
+#qubtn {
+	color: #776184;
+}
+
+#sebtn {
+	color: #f0f1ec;
+}
+
+#setbtn {
+	color: #94ded1;
+}*/
